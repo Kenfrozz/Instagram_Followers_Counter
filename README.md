@@ -10,8 +10,5 @@ This simple Python application uses the Instaloader library to fetch the followe
 4. Enter the Instagram account for which you want to fetch the follower count.
 5. Click the "Get Follower Count" button to display the result.
 
-## Screenshots
-[Add Screenshots Here]
-
 ## License
-This project is not subject to any license. For more information, refer to the [LICENSE](LICENSE) file.
+This project is not subject to any license.
